@@ -74,8 +74,7 @@
         "markbaker/complex": "^3.0",
         "markbaker/matrix": "^3.0",
         "psr/http-client": "^1.0",
-        "psr/http-factory": "^1.0",
-        "psr/simple-cache": "^1.0"
+        "psr/http-factory": "^1.0"
     },
     "require-dev": {
         "dealerdirect/phpcodesniffer-composer-installer": "dev-master",
